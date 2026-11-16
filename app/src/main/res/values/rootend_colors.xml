@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CoursePlanner/app/src/main/res/values/rootend_colors.xml -->
+<resources>
+    <color name="rootend_icon_bg">#FEFDF8</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CoursePlanner/app/src/main/res/mipmap-anydpi-v26/ic_rootend.xml -->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/rootend_icon_bg" />
+    <foreground android:drawable="@drawable/ic_rootend_foreground" />
+    <monochrome android:drawable="@drawable/ic_rootend_monochrome" />
+</adaptive-icon>
